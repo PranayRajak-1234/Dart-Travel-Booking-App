@@ -1,1 +1,1 @@
-I have created a Dart based travel booking application which is based on the four main concepts of Object-Oriented Programming - Abstraction, Encapsulation, Inheritance, and Polymorphism , also known as the "Four Pillars of OOP". 
+I have created a Dart based travel booking application which covers the four main concepts of Object-Oriented Programming - Abstraction, Encapsulation, Inheritance, and Polymorphism , also known as the "Four Pillars of OOP". 
